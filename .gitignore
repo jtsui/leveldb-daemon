@@ -13,3 +13,6 @@ simpleleveldb/csv_to_leveldb
 test_output
 .sw[op]
 *.egg-info/
+*.sublime-project
+*.sublime-workspace
+simpleleveldb/tmp
